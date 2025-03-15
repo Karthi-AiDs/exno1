@@ -185,4 +185,4 @@ sns.boxplot(no_outliers)
 
 
 # Result
-          <<include your Result here>>
+          << Thus the outliers are detected and removed in the given file using IQR and Z-Score Method >>
